@@ -1,0 +1,6 @@
+[submodule "core"]
+	path = core
+	url = git@github.com:neoxadev/core.git
+[submodule "wifi-connect"]
+	path = wifi-connect
+	url = git@github.com:neoxadev/wifi-connect.git
